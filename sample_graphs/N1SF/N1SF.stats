@@ -1,0 +1,22 @@
+DiGraph with 100000 nodes and 71740 edges
+Number of strongly connected components: 100000
+Number of weakly connected components: 28268
+Number of self links: 0
+Max in degree: 85
+Max out degree: 3
+Avg non-zero in degree: 1.39141565972963
+Avg non-zero out degree: 1.040267969780897
+Nodes in largest scc: 1
+Nodes in largest wcc: 4176
+Average clustering: 0
+In-degree distribution: [(0, 48441), (1, 33654), (2, 16911), (3, 760), (4, 71), (5, 41), (6, 17), (7, 23), (8, 21), (9, 8), (10, 9), (11, 7), (12, 1), (13, 7), (14, 5), (15, 3), (16, 3), (17, 3), (18, 1), (19, 2), (20, 2), (21, 1), (22, 2), (27, 1), (30, 1), (35, 1), (48, 1), (55, 1), (67, 1), (85, 1)]
+Out-degree distribution: [(0, 31037), (1, 66243), (2, 2663), (3, 57)]
+SCC size distribution: [(1, 100000)]
+WCC size distribution: [(1, 1), (3, 25407), (6, 2272), (9, 442), (12, 92), (15, 37), (18, 6), (21, 6), (24, 3), (27, 1), (4176, 1)]
+AVG nodes in SCC: 1
+AVG nodes in WCC: 3.5375689825951606
+Density: 7.174071740717407e-06
+Nodes with sum of incoming edge shares >1: 0 
+Nodes with sum of incoming edge shares =1: 31020 
+Nodes with sum of incoming edge shares <1: 20539 
+Nodes with sum of incoming edge shares =0: 48441 
